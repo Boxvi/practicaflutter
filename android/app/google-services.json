@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18992756375",
+    "project_id": "pg1boris",
+    "storage_bucket": "pg1boris.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18992756375:android:e6a47386c6f9ca86ca5bd2",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEuVRTmLpFWU2MAjbq3FZ-_pOB9XMu5qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
