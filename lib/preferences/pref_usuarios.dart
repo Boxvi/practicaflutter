@@ -8,7 +8,7 @@ class PreferenciasUsuario {
   }
 
   String get ultimaPagina {
-    return _prefs.getString('ultimaPagina') ?? 'login_page';
+    return _prefs.getString('ultimaPagina') ?? 'home_page';
   }
 
   set ultimaPagina(String valor) {
